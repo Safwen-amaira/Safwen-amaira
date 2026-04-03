@@ -15,8 +15,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=FFD700&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=000000"/>
+<img src="https://komarev.com/ghpvc/?username=Safwen-amaira&label=Profile+Views&color=FFD700&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/Safwen-amaira?label=Followers&style=flat-square&color=000000"/>
 <img src="https://img.shields.io/badge/System-Autonomous-FFD700?style=flat-square"/>
 <img src="https://img.shields.io/badge/Threat-Level-Elite-000000?style=flat-square"/>
 
@@ -208,7 +208,7 @@ ATTACK → ANALYZE → DETECT → RESPOND → LEARN → EVOLVE
 <h2 style="color:#FFD700;">📊 GITHUB</h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&icon_color=FFD700"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Safwen-amaira&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&icon_color=FFD700"/>
 </div>
 
 ---
