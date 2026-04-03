@@ -268,7 +268,7 @@ Initializing SafwenAmaira v2.4.2 ...
 ---
 
 <div align="center">
-  <b style="color:#FFD700; font-size:18px;">"The only secure system is one that learns faster than its attackers."</b>
+  <b style="color:#FFD700; font-size:18px;">"The only secure system is the one that adapts faster than its attackers."</b>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=120&section=footer"/>
 </div>
