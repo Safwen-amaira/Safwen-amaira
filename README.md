@@ -1,155 +1,247 @@
-# ⚔️ Safwen Amaira | Cybersecurity Engineer • CEO @ Hanicar
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Engineer+%F0%9F%94%90;CEO+of+Hanicar+%F0%9F%8F%A2;Red+Team+%26+SOC+Specialist;Building+Real+Security+Systems;ESPRIT+4th+Year+Student" />
-</p>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00f7ff,100:ff003c&height=200&section=header&text=Safwen%20Amaira&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Software%20Engineering%20Student%20%7C%20CEO%20%40%20Hanicar&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
-</p>
+</div>
 
----
+<div align="center">
 
-## 🧠 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&width=700&lines=Red+Team+%26+Blue+Team+Specialist+%E2%9A%94%EF%B8%8F;SOC+Systems+Builder+%7C+Threat+Detection+Engineer;4th+Year+Software+Engineering+Student+%40+ESPRIT;CEO+of+Hanicar+%F0%9F%94%90+%7C+Founder+of+Obsilion;Understand+Systems.+Break+Them.+Rebuild+Them+Securely.)](https://git.io/typing-svg)
 
-🎓 4th Year Software Engineering Student @ **ESPRIT (Tunisia)**
-🔐 Focused on **Cybersecurity Engineering, SOC Systems & Offensive Security**
-🏢 CEO of **Hanicar** → https://hanicar.tn
-🚀 Founder of **Obsilion**
+<br/>
 
-I design and build **practical security systems**, combining **attack simulation, detection, and automation**.
+![Profile Views](https://komarev.com/ghpvc/?username=Safwen-amaira&label=Profile+Views&color=00f7ff&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Safwen-amaira?label=Followers&style=flat-square&color=ff003c)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20Engineering-00f7ff?style=flat-square)
+![Student](https://img.shields.io/badge/Student-ESPRIT%20Tunisia-ff003c?style=flat-square)
+
+</div>
 
 ---
 
-## 🏢 Hanicar
+## 🧠 Who Am I?
 
-> Cybersecurity-focused company delivering practical and evolving security solutions.
+```bash
+┌──(safwen㉿elite-sec)─[~]
+└─$ whoami
 
-* 🌐 Platform: **https://hanicar.tn**
-* 🔐 Focus: Web security, threat detection, and automation
-* ⚙️ Vision: Build accessible, powerful security tools adapted to real-world threats
+  Name     : Safwen Amaira
+  Role     : Cybersecurity Engineer & Software Engineering Student
+  School   : ESPRIT — 4th Year Software Engineering (Tunisia)
+  CEO      : Hanicar → https://hanicar.tn
+  Founder  : Obsilion
+  Mission  : Build systems that detect, respond, and evolve.
+  Mindset  : Offensive knowledge. Defensive architecture. Continuous automation.
+```
+
+I don't just study security — I **architect it**, **break it**, and **build it back stronger**.
+As a dual-track professional (student + CEO), I operate at the intersection of **offensive research** and **real-world security engineering**, constantly pushing what SOC systems, threat detection, and automated response can look like.
+
+---
+
+## 🏢 Hanicar — Where Security Becomes Product
+
+<div align="center">
+
+[![Hanicar](https://img.shields.io/badge/🔐_Hanicar-Official_Website-000000?style=for-the-badge)](https://hanicar.tn)
+
+</div>
+
+> Hanicar is a cybersecurity-focused company delivering **practical, evolving security solutions** — not theoretical toolkits.
+
+| Area | Focus |
+|---|---|
+| 🌐 Web Security | OWASP-aligned protection & API hardening |
+| 🛡️ Threat Detection | Real-time alert systems & behavioral analysis |
+| ⚙️ Automation | Security workflows that respond without human delay |
+| 🎯 Vision | Accessible, powerful tools built for real-world adversaries |
 
 ---
 
 ## ⚔️ Technical Domains
 
-* 🔴 **Red Teaming** → Recon, exploitation, attack simulation
-* 🔵 **Blue Team / SOC Engineering** → Detection rules, alert correlation
-* 🟣 **Automation** → Security workflows & response systems
-* 🌐 **Web Security** → OWASP Top 10, API protection
-* ☁️ **Infrastructure Security** → Reverse proxy & traffic control
-* 📊 **Threat Intelligence** → Wazuh, MISP, Cortex ecosystems
+<table>
+<tr>
+<td width="50%">
+
+**🔴 Red Team / Offensive Security**
+- Reconnaissance & OSINT
+- Exploitation & Attack Simulation
+- Vulnerability Research
+- Adversarial thinking at every layer
+
+</td>
+<td width="50%">
+
+**🔵 Blue Team / SOC Engineering**
+- Detection Rule Design
+- Alert Correlation & Triage
+- Incident Response Automation
+- SOC Architecture (Wazuh + MISP + Cortex)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌐 Web & API Security**
+- OWASP Top 10 Coverage
+- Reverse Proxy Architecture
+- Traffic Analysis & Filtering
+- API Protection Layers
+
+</td>
+<td width="50%">
+
+**🟣 Automation & Intelligence**
+- Security Workflow Orchestration
+- Threat Scoring Models
+- AI-Assisted Detection Systems
+- Cortex Responders & Analyzers
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Stack & Tools
+## 🧰 Stack & Toolbelt
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,bash,linux,docker,kubernetes,spring" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MISP-Threat%20Intel-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cortex-Automation-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BurpSuite-Web%20Security-black?style=for-the-badge" />
-</p>
+**Languages & Runtimes**
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00f7ff)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=ff003c)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=00f7ff)
+
+**Infrastructure & DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=00f7ff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=ff003c)
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=springboot&logoColor=6db33f)
+
+**Security Ecosystem**
+
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM_&_XDR-00f7ff?style=for-the-badge)
+![MISP](https://img.shields.io/badge/MISP-Threat_Intelligence-7b2fff?style=for-the-badge)
+![Cortex](https://img.shields.io/badge/Cortex-Automated_Response-ff003c?style=for-the-badge)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-Web_Pentesting-ff6600?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Network_Recon-00f7ff?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679a7?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 🚀 Key Projects
 
-### 🔥 Red-Hunter
+### 🔥 Red-Hunter — SOC-Oriented Alert Engine
+> A real-time security operations system built to detect, score, and respond to threats.
 
-SOC-oriented system designed for:
-
-* Real-time alert processing
-* Threat scoring & prioritization
-* Integration with Wazuh / MISP / Cortex
+- ⚡ **Real-time alert processing** from multiple data sources
+- 🎯 **Threat scoring & prioritization** engine
+- 🔗 **Native integration** with Wazuh, MISP, and Cortex
+- 🤖 Reduces SOC analyst fatigue through automated triage
 
 ---
 
-### ☁️ CloudShield
+### ☁️ CloudShield — Infrastructure Security Layer
+> Traffic protection and behavioral defense for exposed infrastructure.
 
-Security layer focused on:
-
-* Reverse proxy protection
-* Traffic filtering & behavioral analysis
-* Anti-DDoS concepts & mitigation logic
+- 🛡️ **Reverse proxy protection** with intelligent rule sets
+- 📊 **Traffic filtering & behavioral analysis** in real-time
+- 💥 **Anti-DDoS logic** and mitigation patterns
+- 🔒 Hardens the perimeter before threats reach application layer
 
 ---
 
 ### 🧠 Threat Recommendation Engine
+> AI-assisted decision support for SOC operators.
 
-* Suggests response strategies
-* Helps SOC decision-making
-* Uses scoring models for incidents
+- 💡 Suggests **context-aware response strategies** per incident type
+- 📈 Uses **scoring models** to rank response urgency
+- 🤝 Bridges the gap between raw alerts and actionable decisions
 
 ---
 
 ### 🕸️ Traffic Monitoring & Blocking System
+> Deep inspection of network flows with automated enforcement.
 
-* Incoming/outgoing traffic inspection
-* Detection of malicious behavior
-* Automated blocking logic
+- 🔍 Full **inbound/outbound traffic inspection**
+- 🚨 **Behavioral anomaly detection** with custom rule logic
+- 🔒 **Automated blocking** — zero manual intervention required
 
 ---
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Safwen-amaira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f7ff&icon_color=ff003c&text_color=ffffff" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Safwen-amaira&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00f7ff&fire=ff003c&currStreakLabel=00f7ff" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safwen-amaira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f7ff&text_color=ffffff" height="150"/>
+
+</div>
 
 ---
 
-## 🧪 Current Focus
+## 🧪 Current Focus (2025)
 
-* Building **real SOC ecosystems (Wazuh + MISP + Cortex)**
-* Developing **security platforms under Hanicar**
-* Improving **automation & detection accuracy**
-* Exploring **AI-assisted cybersecurity systems**
+```
+[████████████████████░░░░]  SOC Ecosystem Engineering  (Wazuh + MISP + Cortex)
+[██████████████████░░░░░░]  Security Platforms @ Hanicar
+[███████████████░░░░░░░░░]  AI-Assisted Cybersecurity Systems
+[█████████████░░░░░░░░░░░]  Automation & Detection Accuracy
+[██████████░░░░░░░░░░░░░░]  Advanced Offensive Research
+```
 
 ---
 
 ## 🧬 Engineering Mindset
 
-```bash id="elitecore"
-while(true){
-    learn();
-    build();
-    test();
-    break();
-    secure();
-}
+```python
+class SafwenAmaira:
+    def __init__(self):
+        self.roles = ["Cybersecurity Engineer", "Software Engineering Student", "CEO @ Hanicar"]
+        self.university = "ESPRIT Tunisia — 4th Year"
+        self.stack = ["Python", "Java", "Bash", "Docker", "Linux", "Spring"]
+        self.soc_tools = ["Wazuh", "MISP", "Cortex", "BurpSuite"]
+        self.philosophy = "Understand systems. Break them. Rebuild them securely."
+
+    def approach(self):
+        while True:
+            self.learn()       # Stay ahead of adversaries
+            self.simulate()    # Red team everything
+            self.detect()      # Build detection before deployment
+            self.automate()    # Remove human bottlenecks
+            self.secure()      # Ship with confidence
 ```
 
 ---
 
-## 🌐 Presence
+## 🌐 Connect & Collaborate
 
-<p align="center">
-  <a href="https://hanicar.tn"><img src="https://img.shields.io/badge/Hanicar-Official%20Website-black?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-</p>
+<div align="center">
 
----
+[![Hanicar](https://img.shields.io/badge/🔐_Hanicar.tn-000000?style=for-the-badge&logoColor=white)](https://hanicar.tn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-ff003c?style=for-the-badge&logo=gmail)](mailto:your@email.com)
 
-## ⚡ Philosophy
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=FF0000&center=true&vCenter=true&width=650&lines=Understand+Systems.;Break+Them.;Rebuild+Them+Securely." />
-</p>
+</div>
 
 ---
 
-## 🏁 Final Note
+<div align="center">
 
-> I focus on **building systems that detect, respond, and evolve** — not just tools that look good on paper.
+> *"I focus on building systems that detect, respond, and evolve — not just tools that look good on paper."*
 
-<p align="center">
-  ⚔️ Security is a continuous process, not a finished product.
-</p>
+**⚔️ Security is a continuous process, not a finished product.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff003c,50:00f7ff,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
+
+</div>
