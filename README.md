@@ -1,25 +1,23 @@
 <div align="center">
 
-<!-- Animated Header with Glow Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=250&section=header&text=Safwen%20Amaira&fontSize=62&fontColor=FFD700&fontAlignY=38&desc=AI-Augmented%20Cybersecurity%20Engineer%20%7C%20SOC%20Architect%20%7C%20Founder%20%40%20Obsilion&descAlignY=60&descSize=18&animation=fadeIn&fontAlign=50" />
+<!-- Animated Header (using GIF-like rendering via Vercel) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=250&section=header&text=Safwen%20Amaira&fontSize=62&fontColor=FFD700&fontAlignY=38&desc=AI-Augmented%20Cybersecurity%20%7C%20CEO%20%40%20Hanicar&descAlignY=60&descSize=18&animation=fadeIn&fontAlign=50" />
 
 <br/>
 
-<!-- Animated Logo Pulse -->
-<div style="animation: pulse 2s infinite;">
-  <img src="./hanicar.png" width="140" style="filter: drop-shadow(0 0 10px #FFD700);"/>
-</div>
+<!-- Logo with inline shadow (safe) -->
+<img src="./hanicar.png" width="140" style="filter: drop-shadow(0 0 8px #FFD700);" />
 
 </div>
 
 <div align="center">
 
-<!-- Enhanced Typing SVG with Multiple Lines -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=FFD700&center=true&vCenter=true&width=1000&lines=Cybersecurity+%26+Software+Engineering;Red+%26+Blue+Team+Operator;Autonomous+Defense+Architect;Building+Self-Evolving+Security+Systems;CEO+%40+Hanicar+%7C+Founder+%40+Obsilion" />
+<!-- Typing SVG – works everywhere -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=FFD700&center=true&vCenter=true&width=1000&lines=Cybersecurity+%26+Software+Engineering;Red+%26+Blue+Team+Operator;Autonomous+Defense+Architect;Building+Self-Evolving+Security+Systems;CEO+%40+Hanicar+%7C+Building+the+Future+of+SOC" />
 
 <br/>
 
-<!-- Glowing Badges -->
+<!-- Badges – clean and stylish -->
 <img src="https://komarev.com/ghpvc/?username=Safwen-amaira&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge&base=1245" />
 <img src="https://img.shields.io/github/followers/Safwen-amaira?label=FOLLOWERS&style=for-the-badge&color=000000&logo=github&logoColor=FFD700" />
 <img src="https://img.shields.io/badge/THREAT_LEVEL-ACTIVE_ELITE-FFD700?style=for-the-badge&labelColor=black" />
@@ -29,45 +27,9 @@
 
 <hr style="border: 1px solid #FFD700; box-shadow: 0 0 8px #FFD700;"/>
 
-<!-- Custom CSS Animations -->
-<style>
-  @keyframes pulse {
-    0% { text-shadow: 0 0 0px #FFD700; opacity: 0.9; }
-    50% { text-shadow: 0 0 15px #FFD700, 0 0 5px #FFA500; opacity: 1; }
-    100% { text-shadow: 0 0 0px #FFD700; opacity: 0.9; }
-  }
-  @keyframes glow {
-    from { box-shadow: 0 0 5px #FFD700; }
-    to { box-shadow: 0 0 20px #FFD700; }
-  }
-  @keyframes slideIn {
-    from { transform: translateX(-20px); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-  }
-  .gold-glow {
-    animation: pulse 3s infinite;
-  }
-  .terminal-box {
-    background: #0a0a0a;
-    border-left: 4px solid #FFD700;
-    border-radius: 12px;
-    padding: 16px;
-    font-family: 'Courier New', monospace;
-    transition: all 0.3s;
-  }
-  .terminal-box:hover {
-    transform: scale(1.01);
-    box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
-  }
-  .hover-gold:hover {
-    color: #FFD700 !important;
-    transition: 0.2s;
-  }
-</style>
+<h2 align="center" style="color:#FFD700;">🧠 AI CORE IDENTITY</h2>
 
-<h2 style="color:#FFD700; border-bottom: 2px solid #FFD700; display: inline-block;">🧠 AI CORE IDENTITY</h2>
-
-<div class="terminal-box">
+<div style="background:#0a0a0a; border-left: 4px solid #FFD700; border-radius: 12px; padding: 16px; font-family: monospace;">
   <pre style="color:#FFD700; background:#000; margin:0; font-size:14px;">
 ┌──(ai-core㉿safwen)-[~/system]
 └─$ boot_sequence --verbose
@@ -104,26 +66,7 @@ Initializing SafwenAmaira v2.4.2 ...
 
 ---
 
-<h2 style="color:#FFD700;">📡 LIVE THREAT INTELLIGENCE FEED</h2>
-
-<div class="terminal-box" style="background:#0a0a0a; font-family: monospace; font-size: 13px;">
-  <span style="color:#FFD700;">[THREAT RADAR]</span> <span style="color:#00FF99;">● ACTIVE</span><br/>
-  <span style="color:#aaa;">[18:21:04]</span> <span style="color:#FFD700;">INFO</span>     Inbound connection → 185.143.x.x (ASN: 12345)<br/>
-  <span style="color:#aaa;">[18:21:05]</span> <span style="color:#FFA500;">WARNING</span>  SQLi pattern matched in /api/search<br/>
-  <span style="color:#aaa;">[18:21:05]</span> <span style="color:#FF4444;">ALERT</span>    Threat score: 0.91 → <span style="color:#FFD700;">AUTO-BLOCK INITIATED</span><br/>
-  <span style="color:#aaa;">[18:21:05]</span> <span style="color:#00FF99;">ACTION</span>    IP blacklisted | Firewall rule #4432 applied<br/>
-  <span style="color:#aaa;">[18:21:08]</span> <span style="color:#FFD700;">INFO</span>     POST /auth/login → 12 requests from 203.0.x.x<br/>
-  <span style="color:#aaa;">[18:21:08]</span> <span style="color:#FFA500;">WARNING</span>  Brute-force behavior detected (rate: 4 req/sec)<br/>
-  <span style="color:#aaa;">[18:21:09]</span> <span style="color:#00FF99;">ACTION</span>    Rate limiting + CAPTCHA enforced<br/>
-  <span style="color:#aaa;">[18:21:12]</span> <span style="color:#00FF99;">SUCCESS</span>  System stabilized. 0 breaches.<br/>
-  <span style="color:#aaa;">[18:21:15]</span> <span style="color:#FFD700;">INFO</span>     Pushing IOCs to MISP → 2 new indicators.<br/>
-  <span style="color:#aaa;">[18:21:17]</span> <span style="color:#00FF99;">SECURE</span>   Encryption keys rotated.<br/>
-  <span style="color:#888;">-- Threat feed updates every 3s --</span>
-</div>
-
----
-
-<h2 style="color:#FFD700;">🏢 HANICAR — NEXT-GEN CYBERSECURITY ENGINE</h2>
+<h2 align="center" style="color:#FFD700;">🏢 HANICAR — NEXT‑GEN CYBERSECURITY ENGINE</h2>
 
 <div align="center">
   <a href="https://hanicar.tn" target="_blank">
@@ -131,106 +74,123 @@ Initializing SafwenAmaira v2.4.2 ...
   </a>
 </div>
 
+<br/>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="background:#0a0a0a; border:1px solid #FFD700; border-radius:12px; padding:12px; width:220px;">
+    <h3 style="color:#FFD700;">⚡ Real‑time</h3>
+    <p>100k+ events/sec detection pipelines</p>
+  </div>
+  <div style="background:#0a0a0a; border:1px solid #FFD700; border-radius:12px; padding:12px; width:220px;">
+    <h3 style="color:#FFD700;">🛡️ Autonomous</h3>
+    <p>Zero‑touch mitigation & response</p>
+  </div>
+  <div style="background:#0a0a0a; border:1px solid #FFD700; border-radius:12px; padding:12px; width:220px;">
+    <h3 style="color:#FFD700;">🤖 AI‑assisted</h3>
+    <p>68% reduction in MTTD</p>
+  </div>
+</div>
+
 <ul>
-  <li>⚡ Real-time threat detection pipelines (100k+ events/sec)</li>
-  <li>🛡️ Autonomous mitigation systems with zero-touch response</li>
-  <li>🔗 Full-stack SOC: Wazuh + MISP + Cortex + TheHive</li>
-  <li>🤖 AI-assisted SOC operations reducing MTTD by 68%</li>
-  <li>🌍 Protecting 50+ clients across finance, healthcare, and critical infrastructure</li>
+  <li>🔗 Full‑stack SOC: <b>Wazuh + MISP + Cortex + TheHive</b></li>
+  <li>🌍 Protecting 50+ clients across finance, healthcare & critical infrastructure</li>
+  <li>🧠 Proprietary threat scoring algorithms & behavioral analytics</li>
 </ul>
 
 ---
 
-<h2 style="color:#FFD700;">⚔️ CORE DOMAINS & EXPERTISE</h2>
+<h2 align="center" style="color:#FFD700;">⚔️ CORE DOMAINS</h2>
 
 <table width="100%">
  <tr>
-   <td width="50%" style="padding: 10px;">
-
-### 🔴 OFFENSIVE SECURITY
-- Reconnaissance & OSINT automation
-- Custom exploit development (Python/Bash)
-- Red team simulations & adversary emulation
-- Web app pentesting (Burp Suite, OWASP Top 10)
-- Phishing campaigns & social engineering
-
+   <td width="50%" style="padding: 10px; vertical-align: top;">
+     <h3 style="color:#FFD700;">🔴 Offensive</h3>
+     <ul>
+       <li>Recon & OSINT automation</li>
+       <li>Custom exploit development</li>
+       <li>Red team simulations</li>
+       <li>Web app pentesting (Burp, OWASP)</li>
+     </ul>
    </td>
-   <td width="50%" style="padding: 10px;">
-
-### 🔵 DEFENSIVE SECURITY
-- Detection engineering (Sigma, YARA)
-- SIEM architecture (Wazuh, Splunk)
-- Incident response automation (SOAR)
-- Threat hunting & IOC enrichment
-- Zero-trust network segmentation
-
+   <td width="50%" style="padding: 10px; vertical-align: top;">
+     <h3 style="color:#FFD700;">🔵 Defensive</h3>
+     <ul>
+       <li>Detection engineering (Sigma, YARA)</li>
+       <li>SIEM architecture (Wazuh, Splunk)</li>
+       <li>Incident automation (SOAR)</li>
+       <li>Threat hunting & IOC enrichment</li>
+     </ul>
    </td>
- </tr>
- <tr>
-   <td style="padding: 10px;">
-
-### 🌐 WEB & API SECURITY
-- Reverse proxy hardening (Nginx, Cloudflare)
-- WAF rule engineering
-- API rate limiting & DDoS mitigation
-- JWT & OAuth security audits
-- CSP, CORS, and secure headers
-
+  </tr>
+  <tr>
+   <td style="padding: 10px; vertical-align: top;">
+     <h3 style="color:#FFD700;">🌐 Web Security</h3>
+     <ul>
+       <li>Reverse proxy hardening</li>
+       <li>WAF rule engineering</li>
+       <li>API rate limiting & DDoS mitigation</li>
+       <li>Secure headers & CSP</li>
+     </ul>
    </td>
-   <td style="padding: 10px;">
-
-### 🧠 AI-POWERED DEFENSE
-- ML-based anomaly detection
-- Threat scoring algorithms
-- Adaptive response logic
-- UEBA behavioral modeling
-- LLMs for log analysis
-
+   <td style="padding: 10px; vertical-align: top;">
+     <h3 style="color:#FFD700;">🧠 AI Defense</h3>
+     <ul>
+       <li>ML‑based anomaly detection</li>
+       <li>Threat scoring algorithms</li>
+       <li>Adaptive response logic</li>
+       <li>UEBA behavioral modeling</li>
+     </ul>
    </td>
- </tr>
+  </tr>
 </table>
 
 ---
 
-<h2 style="color:#FFD700;">🚀 FLAGSHIP PROJECTS</h2>
+<h2 align="center" style="color:#FFD700;">🚀 FLAGSHIP PROJECTS (HANICAR LABS)</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div style="background: #0a0a0a; border: 1px solid #FFD700; border-radius: 12px; padding: 15px; width: 250px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-    <h3 style="color:#FFD700;">🔥 Red-Hunter</h3>
-    <p>AI-driven SOC alert engine with real-time risk scoring and automated triage. Integrates with MISP/TheHive.</p>
-    <code>Python + Elastic + Kafka</code>
-  </div>
-  <div style="background: #0a0a0a; border: 1px solid #FFD700; border-radius: 12px; padding: 15px; width: 250px;">
-    <h3 style="color:#FFD700;">☁️ CloudShield</h3>
-    <p>Intelligent reverse proxy with behavioral DDoS filtering, bot detection, and automatic IP reputation.</p>
-    <code>Go + Nginx + Lua</code>
-  </div>
-  <div style="background: #0a0a0a; border: 1px solid #FFD700; border-radius: 12px; padding: 15px; width: 250px;">
-    <h3 style="color:#FFD700;">🧠 Threat Recommender</h3>
-    <p>LLM-based assistant that suggests response actions for detected threats using MITRE ATT&CK mapping.</p>
-    <code>LangChain + OpenAI + ChromaDB</code>
-  </div>
-  <div style="background: #0a0a0a; border: 1px solid #FFD700; border-radius: 12px; padding: 15px; width: 250px;">
-    <h3 style="color:#FFD700;">🕸️ PacketSentry</h3>
-    <p>Deep packet inspection engine with anomaly detection and automated blocking of malicious flows.</p>
-    <code>C++ + DPDK + Suricata</code>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" style="background:#0a0a0a; border:1px solid #FFD700; border-radius:12px; padding:15px;">
+        <h3 style="color:#FFD700;">🔥 Red-Hunter</h3>
+        <p>AI-driven SOC alert engine with real‑time risk scoring and automated triage. Integrates with MISP/TheHive.</p>
+        <code>Python + Elastic + Kafka</code>
+      </td>
+      <td width="50%" style="background:#0a0a0a; border:1px solid #FFD700; border-radius:12px; padding:15px;">
+        <h3 style="color:#FFD700;">☁️ CloudShield</h3>
+        <p>Intelligent reverse proxy with behavioral DDoS filtering, bot detection, and automatic IP reputation.</p>
+        <code>Go + Nginx + Lua</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="background:#0a0a0a; border:1px solid #FFD700; border-radius:12px; padding:15px;">
+        <h3 style="color:#FFD700;">🧠 Threat Recommender</h3>
+        <p>LLM‑based assistant that suggests response actions using MITRE ATT&CK mapping.</p>
+        <code>LangChain + OpenAI + ChromaDB</code>
+      </td>
+      <td style="background:#0a0a0a; border:1px solid #FFD700; border-radius:12px; padding:15px;">
+        <h3 style="color:#FFD700;">🕸️ PacketSentry</h3>
+        <p>Deep packet inspection engine with anomaly detection and automated blocking.</p>
+        <code>C++ + DPDK + Suricata</code>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<h2 style="color:#FFD700;">🧬 CORE LOOP — THE EVOLUTION CYCLE</h2>
+<h2 align="center" style="color:#FFD700;">🧬 THE EVOLUTION CYCLE</h2>
 
 <div align="center">
   <pre style="color:#FFD700; background:#000; padding:12px; border-radius:20px; font-size:18px; letter-spacing:2px;">
 ⚔️ ATTACK → 🔍 ANALYZE → 🚨 DETECT → 🤖 RESPOND → 📚 LEARN → 🧬 EVOLVE → 🔁 LOOP
   </pre>
-  <div style="width: 80%; height: 4px; background: linear-gradient(90deg, black, #FFD700, black); border-radius: 2px; animation: glow 2s infinite alternate;"></div>
+  <div style="width: 80%; height: 4px; background: linear-gradient(90deg, black, #FFD700, black); border-radius: 2px;"></div>
 </div>
 
 ---
 
-<h2 style="color:#FFD700;">🧰 TECHNICAL ARSENAL</h2>
+<h2 align="center" style="color:#FFD700;">🧰 TECHNICAL ARSENAL</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700&color=000000"/>
@@ -251,7 +211,7 @@ Initializing SafwenAmaira v2.4.2 ...
 
 ---
 
-<h2 style="color:#FFD700;">📊 GITHUB INSIGHTS</h2>
+<h2 align="center" style="color:#FFD700;">📊 GITHUB INSIGHTS</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Safwen-amaira&show_icons=true&count_private=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff&border_color=FFD700&border_radius=10" width="48%"/>
@@ -268,9 +228,9 @@ Initializing SafwenAmaira v2.4.2 ...
 
 ---
 
-<h2 style="color:#FFD700;">🎓 CURRENT FOCUS (Student Mode)</h2>
+<h2 align="center" style="color:#FFD700;">🎓 CURRENT FOCUS (STUDENT MODE)</h2>
 
-<div class="terminal-box">
+<div style="background:#0a0a0a; border-left: 4px solid #FFD700; border-radius: 12px; padding: 16px;">
   <ul style="color:#ddd;">
     <li>📖 Mastering <span style="color:#FFD700;">Offensive Security (OSCP path)</span> – 73% done</li>
     <li>🤖 Building an <span style="color:#FFD700;">AI-powered deception network</span> for honeypot intelligence</li>
@@ -282,7 +242,7 @@ Initializing SafwenAmaira v2.4.2 ...
 
 ---
 
-<h2 style="color:#FFD700;">🌍 CONNECT & COLLABORATE</h2>
+<h2 align="center" style="color:#FFD700;">🌍 CONNECT & COLLABORATE</h2>
 
 <div align="center">
   <a href="https://hanicar.tn" target="_blank">
