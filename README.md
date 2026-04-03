@@ -20,7 +20,7 @@
 <!-- Badges – clean and stylish -->
 <img src="https://komarev.com/ghpvc/?username=Safwen-amaira&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge&base=1245" />
 <img src="https://img.shields.io/github/followers/Safwen-amaira?label=FOLLOWERS&style=for-the-badge&color=000000&logo=github&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/THREAT_LEVEL-ACTIVE_ELITE-FFD700?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/THREAT_LEVEL-ACTIVE-FFD700?style=for-the-badge&labelColor=black" />
 <img src="https://img.shields.io/badge/SYSTEM_STATE-AUTONOMOUS-FFD700?style=for-the-badge&labelColor=black" />
 
 </div>
@@ -34,7 +34,7 @@
 ┌──(ai-core㉿safwen)-[~/system]
 └─$ boot_sequence --verbose
 
-Initializing SafwenAmaira v2.4.2 ...
+Initializing SafwenAmaira v2026 ...
 
 [✔] Offensive Security Engine Loaded (Red Team Active)
 [✔] Defensive SOC Engine Loaded (Blue Team Active)  
@@ -43,8 +43,8 @@ Initializing SafwenAmaira v2.4.2 ...
 
 > class CyberPhoenix(SafwenAmaira):
 >     def __init__(self):
->         self.role = ["Software Engineer", "Cybersecurity Student", "Threat Hunter"]
->         self.weapons = ["Python", "Java", "Bash", "C++", "Nmap", "Burp", "Wazuh"]
+>         self.role = ["Software Engineer", "Cybersecurity Engineering Student", "Threat Hunter"]
+>         self.weapons = ["Python", "Java", "Bash", "C++", "Nmap", "Burp", "SIEM","SOAR","AI"]
 >         self.philosophy = "Build intelligent systems that outthink attackers."
 >     
 >     def evolve(self):
@@ -66,11 +66,11 @@ Initializing SafwenAmaira v2.4.2 ...
 
 ---
 
-<h2 align="center" style="color:#FFD700;">🏢 HANICAR — NEXT‑GEN CYBERSECURITY ENGINE</h2>
+<h2 align="center" style="color:#FFD700;">🏢 HANICAR , NEXT‑GEN CYBERSECURITY ENGINE</h2>
 
 <div align="center">
   <a href="https://hanicar.tn" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_ENTER_HANICAR_⚡-FFD700?style=for-the-badge&logo=acclaim&logoColor=black&labelColor=000000&color=FFD700"/>
+    <img src="https://img.shields.io/badge/⚡_CHECK_HANICAR_⚡-FFD700?style=for-the-badge&logo=acclaim&logoColor=black&labelColor=000000&color=FFD700"/>
   </a>
 </div>
 
@@ -92,8 +92,8 @@ Initializing SafwenAmaira v2.4.2 ...
 </div>
 
 <ul>
-  <li>🔗 Full‑stack SOC: <b>Wazuh + MISP + Cortex + TheHive</b></li>
-  <li>🌍 Protecting 50+ clients across finance, healthcare & critical infrastructure</li>
+  <li>🔗 Full‑stack SOC: <b>SIEM + Threat Intel + Automation + Analyzing + Decision</b></li>
+  <li>🌍 Protecting 10+ clients across finance & critical infrastructures meanwhile i still a student</li>
   <li>🧠 Proprietary threat scoring algorithms & behavioral analytics</li>
 </ul>
 
@@ -119,6 +119,7 @@ Initializing SafwenAmaira v2.4.2 ...
        <li>SIEM architecture (Wazuh, Splunk)</li>
        <li>Incident automation (SOAR)</li>
        <li>Threat hunting & IOC enrichment</li>
+       <li>strong understanding for ISO 270001/270002 & PCI DSS</li>
      </ul>
    </td>
   </tr>
@@ -130,6 +131,7 @@ Initializing SafwenAmaira v2.4.2 ...
        <li>WAF rule engineering</li>
        <li>API rate limiting & DDoS mitigation</li>
        <li>Secure headers & CSP</li>
+       <li>AI-driven bot detection Systems</li>
      </ul>
    </td>
    <td style="padding: 10px; vertical-align: top;">
@@ -215,6 +217,7 @@ Initializing SafwenAmaira v2.4.2 ...
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Safwen-amaira&show_icons=true&count_private=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff&border_color=FFD700&border_radius=10" width="48%"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Safwen-amaira&background=0d1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=ffffff&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=ffffff&border=FFD700" width="48%"/>
 </div>
 
