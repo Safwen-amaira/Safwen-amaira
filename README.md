@@ -43,8 +43,8 @@ Initializing Amaira_Safwen v2026 ...
 
 > class CyberPhoenix(SafwenAmaira):
 >     def __init__(self):
->         self.role = ["Software Engineer", "Cybersecurity Engineering Student", "Threat Hunter"]
->         self.weapons = ["Python", "Java", "Bash", "C++", "Nmap", "Burp", "SIEM","SOAR","AI"]
+>         self.role = ["Software Engineer", "Cybersecurity Engineering Student", "SOC Analyst","WAF Rules Engineer","Threat Hunter"]
+>         self.weapons = ["Python", "Java", "Bash","JavaScript","C","GoLang","Rust", "C++", "Nmap", "Burp", "SIEM","SOAR","AI"]
 >         self.philosophy = "Build intelligent systems that outthink attackers."
 >     
 >     def evolve(self):
