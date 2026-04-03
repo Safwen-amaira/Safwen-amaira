@@ -34,7 +34,7 @@
 ┌──(ai-core㉿safwen)-[~/system]
 └─$ boot_sequence --verbose
 
-Initializing SafwenAmaira v2026 ...
+Initializing Amaira_Safwen v2026 ...
 
 [✔] Offensive Security Engine Loaded (Red Team Active)
 [✔] Defensive SOC Engine Loaded (Blue Team Active)  
