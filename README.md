@@ -222,6 +222,10 @@ flowchart LR
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=FFD700&color=000)
 
 </div>
+
+---
+
+
 ## 📊 GITHUB INTELLIGENCE
 
 <div align="center">
@@ -231,7 +235,6 @@ flowchart LR
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safwen-amaira&layout=compact&bg_color=0d1117&title_color=FFD700&text_color=ffffff&border_color=FFD700&border_radius=8&langs_count=6" width="40%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Safwen-amaira&theme=darkhub&column=4&margin-w=10&margin-h=10" width="52%"/>
 </div>
 
 <div align="center">
