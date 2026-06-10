@@ -105,7 +105,7 @@ flowchart LR
 
 ```markdown
 ## ⚔️ OPERATIONAL DOMAINS
-
+```
 <div align="center">
   <table width="100%">
     <tr>
@@ -151,7 +151,7 @@ flowchart LR
   </table>
 </div>
 
-```
+
 
 ## 🚀 FLAGSHIP PROJECTS — HANICAR LABS
 
