@@ -98,7 +98,7 @@ flowchart LR
     style D fill:#1a1a1a,stroke:#FFD700,stroke-width:2px
     style E fill:#1a1a1a,stroke:#FFD700,stroke-width:2px
     style F fill:#1a1a1a,stroke:#FFD700,stroke-width:2px
-
+```
 ---
 
 ## 📦 Section 5: Operational Domains (Copy This Fifth)
@@ -150,6 +150,8 @@ flowchart LR
     </tr>
   </table>
 </div>
+
+```
 ## 🚀 FLAGSHIP PROJECTS — HANICAR LABS
 
 <div align="center">
