@@ -272,7 +272,7 @@ flowchart LR
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000)](https://linkedin.com/in/safwen-amaira)
 [![X](https://img.shields.io/badge/X_(TWITTER)-FOLLOW-000?style=for-the-badge&logo=x&logoColor=FFD700&labelColor=000)](https://twitter.com/safwen_amaira)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000)](https://github.com/Safwen-amaira)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000)](mailto:safwen@hanicar.tn)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000)](mailto:safwen.amaira@esprit.tn)
 
 </div>
 
