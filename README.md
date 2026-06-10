@@ -101,56 +101,70 @@ flowchart LR
 ```
 ---
 
-## 📦 Section 5: Operational Domains 
+  ## ⚔️ OPERATIONAL DOMAINS
 
-```markdown
-## ⚔️ OPERATIONAL DOMAINS
-```
 <div align="center">
-  <table width="100%">
+  <table width="100%" cellspacing="0" cellpadding="8">
     <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🔴 OFFENSIVE SECURITY</h3>
-        
-        [✅] Recon & OSINT automation pipelines
-        [✅] Custom exploit development
-        [✅] Red team adversary emulation
-        [✅] Web app pentesting (Burp/OWASP)
-        [✅] Social engineering simulations
+      <td width="50%" valign="top" style="background: #0a0a0a; border: 1px solid #FFD70030; border-radius: 12px; padding: 16px;">
+        <h3 align="center" style="color:#FFD700; margin-top: 0;">🔴 OFFENSIVE SECURITY</h3>
+        <div align="left">
+          <code>✅ Recon & OSINT automation pipelines</code><br/>
+          <code>✅ Custom exploit development</code><br/>
+          <code>✅ Red team adversary emulation</code><br/>
+          <code>✅ Web app pentesting (Burp/OWASP)</code><br/>
+          <code>✅ Social engineering simulations</code><br/>
+          <code>✅ C2 infrastructure setup</code><br/>
+          <code>✅ Evasion & bypass techniques</code>
+        </div>
       </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🔵 DEFENSIVE SECURITY</h3>
-        
-        [✅] Detection engineering (Sigma/YARA)
-        [✅] SIEM architecture (Wazuh/Splunk)
-        [✅] Incident automation (SOAR)
-        [✅] Threat hunting & IOC enrichment
-        [✅] ISO 27001/27002 · PCI DSS
+      <td width="50%" valign="top" style="background: #0a0a0a; border: 1px solid #FFD70030; border-radius: 12px; padding: 16px;">
+        <h3 align="center" style="color:#FFD700; margin-top: 0;">🔵 DEFENSIVE SECURITY</h3>
+        <div align="left">
+          <code>✅ Detection engineering (Sigma/YARA)</code><br/>
+          <code>✅ SIEM architecture (Wazuh/Splunk)</code><br/>
+          <code>✅ Incident automation (SOAR)</code><br/>
+          <code>✅ Threat hunting & IOC enrichment</code><br/>
+          <code>✅ ISO 27001/27002 · PCI DSS</code><br/>
+          <code>✅ Log analysis & forensics</code><br/>
+          <code>✅ Vulnerability management</code>
+        </div>
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🌐 WEB & NETWORK SECURITY</h3>
-        
-        [✅] Reverse proxy hardening
-        [✅] WAF rule engineering (custom sets)
-        [✅] API rate limiting & DDoS mitigation
-        [✅] Secure headers / CSP / CORS
-        [✅] AI-driven bot detection systems
+      <td width="50%" valign="top" style="background: #0a0a0a; border: 1px solid #FFD70030; border-radius: 12px; padding: 16px;">
+        <h3 align="center" style="color:#FFD700; margin-top: 0;">🌐 WEB & NETWORK SECURITY</h3>
+        <div align="left">
+          <code>✅ Reverse proxy hardening (Nginx/HAProxy)</code><br/>
+          <code>✅ WAF rule engineering (custom rulesets)</code><br/>
+          <code>✅ API rate limiting & DDoS mitigation</code><br/>
+          <code>✅ Secure headers / CSP / CORS</code><br/>
+          <code>✅ AI-driven bot detection systems</code><br/>
+          <code>✅ TLS/SSL configuration auditing</code><br/>
+          <code>✅ Network segmentation & zero-trust</code>
+        </div>
       </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🧠 AI/ML DEFENSE</h3>
-        
-        [✅] ML-based anomaly detection
-        [✅] Adversarial ML & model poisoning
-        [✅] Proprietary threat scoring
-        [✅] UEBA behavioral modeling
-        [✅] Adaptive autonomous response
+      <td width="50%" valign="top" style="background: #0a0a0a; border: 1px solid #FFD70030; border-radius: 12px; padding: 16px;">
+        <h3 align="center" style="color:#FFD700; margin-top: 0;">🧠 AI/ML DEFENSE</h3>
+        <div align="left">
+          <code>✅ ML-based anomaly detection</code><br/>
+          <code>✅ Adversarial ML & model poisoning</code><br/>
+          <code>✅ Proprietary threat scoring</code><br/>
+          <code>✅ UEBA behavioral modeling</code><br/>
+          <code>✅ Adaptive autonomous response</code><br/>
+          <code>✅ LLM security & prompt injection</code><br/>
+          <code>✅ AI-driven false positive reduction</code>
+        </div>
       </td>
     </tr>
   </table>
 </div>
 
+<br/>
+
+<div align="center">
+  <i>⚡ All domains actively deployed in production environments</i>
+</div>
 
 
 ## 🚀 FLAGSHIP PROJECTS — HANICAR LABS
