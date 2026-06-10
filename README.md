@@ -52,8 +52,9 @@
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 
+```
 
-## ⚡ HANICAR SECURITY — NEXT-GEN AUTONOMOUS SOC
+## ⚡ HANICAR SECURITY — Tunisian Cybersecurity platform (SaaS).
 
 <div align="center">
   <a href="https://hanicar.tn" target="_blank">
