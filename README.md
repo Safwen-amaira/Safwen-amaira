@@ -162,14 +162,12 @@ flowchart LR
         <h3 style="color:#FFD700;">🔥 Red‑Hunter</h3>
         <i>AI-driven SOC alert engine</i><br/>
         Real-time risk scoring, automated triage, MITRE ATT&CK mapping.
-        
         `Python · Elastic · Kafka · Redis`
       </td>
       <td width="50%" valign="top">
         <h3 style="color:#FFD700;">☁️ CloudShield</h3>
         <i>Intelligent autonomous reverse proxy</i><br/>
         Behavioral DDoS filtering, AI bot detection, automatic IP reputation.
-        
         `Go · Nginx · Lua · Redis`
       </td>
     </tr>
@@ -178,14 +176,12 @@ flowchart LR
         <h3 style="color:#FFD700;">🧠 Threat Recommender</h3>
         <i>LLM-powered response assistant</i><br/>
         Alerts → MITRE ATT&CK mapping → playbook recommendations.
-        
         `LangChain · OpenAI · ChromaDB · FastAPI`
       </td>
       <td width="50%" valign="top">
         <h3 style="color:#FFD700;">🕸️ PacketSentry</h3>
         <i>Deep packet inspection engine</i><br/>
         Real-time anomaly detection with sub-millisecond blocking.
-        
         `C++ · DPDK · Suricata · PF_RING`
       </td>
     </tr>
